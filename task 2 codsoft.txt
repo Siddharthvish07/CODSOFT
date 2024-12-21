@@ -15,15 +15,15 @@ class Main
 		System.out.println("Total :"+tot);
 		System.out.println("Percentage :"+per);	
 		if(per>=90)
-			System.out.println("Grade A");
+			System.out.println("Grade A+");
 		else if(per>=80)
-			System.out.println("Grade B");
+			System.out.println("Grade A");
 		else if(per>=70)
-			System.out.println("Grade C");
+			System.out.println("Grade B+");
 		else if(per>=60)
-			System.out.println("Grade D");
+			System.out.println("Grade B");
 		else if(per>=40)
-			System.out.println("Grade E");
+			System.out.println("Grade C+");
 		else
 			System.out.println("Grade F");
 	}
