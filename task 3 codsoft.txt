@@ -37,9 +37,9 @@ public class Main {
 
 	public static void main(String args[]) 
 	{ 
-		int balance = 10000; 
-		int withdrawAmount = 5000; 
-		int depositAmount = 2000; 
+		int balance = 50000; 
+		int withdrawAmount = 3000; 
+		int depositAmount = 7000; 
 
 		displayBalance(balance);  
 		
